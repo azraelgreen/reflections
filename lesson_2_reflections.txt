@@ -18,3 +18,5 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 This is a test branch
+
+This is new content in test branch
